@@ -1,1 +1,7 @@
-multi_table_classical_crypto
+#### Kasiski 测试法
+**定理**
+>若两个相同的明文片段之间的距离是密钥长度的倍数，则这两个明文段对应的密文一定相同。
+>反之则不然。 
+
+.
+#### 重合指数法 （index of coincidence）
